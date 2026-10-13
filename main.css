@@ -1,0 +1,28 @@
+ul.list{
+  list-style: none;
+}
+.list{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.xammasi{
+    border-radius: 14px;
+    flex-wrap: wrap;
+    width: 390px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px;
+    margin-left: 75px;
+    margin-top: 50px;
+}
+
+.xammasi3{
+    color: gray;
+    font-size: 20px;
+}
+
+.xammasi2{
+    width: 360px;
+    color: rgb(245, 63, 63);
+}
